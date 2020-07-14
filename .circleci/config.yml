@@ -21,4 +21,4 @@ jobs:
           name: Running in a Unique Container
           command: |
             node -v
-            store_test_results
+          

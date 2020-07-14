@@ -1,2 +1,26 @@
-# o-call
-This is a video conferencing app which brings to bare the reality faced with the challenge of limited number of participants per time, and also the need for large and fully equipped conference rooms. This might not be a problem to a large enterprise, but for the small to medium-sized business, access to a videoconferencing facility involves either a very costly rental fee or is completely impossible. The aim of this work is to design and implement a videoconferencing prototype (o'call) with added functionalities which will solve problems facing the traditional way of conducting meetings
+# Realtime communication with WebRTC
+
+This code has the resources you need for the codelab [Realtime communication with WebRTC](https://codelabs.developers.google.com/codelabs/webrtc-web/#0).
+
+This is a work in progress. If you find a mistake or have a suggestion, please [file an issue](https://github.com/googlecodelabs/webrtc-web/issues). Thanks!
+
+## What you'll learn
+* Get video from your webcam
+* Stream video with RTCPeerConnection
+* Stream data with RTCDataChannel
+* Set up a signaling service to exchange messages
+* Combine peer connection and signaling
+* Take a photo and share it via a data channel
+
+
+## What you'll need
+* Chrome 47 or above.
+* Web Server for Chrome, or use your own web server of choice.
+* The sample code.
+* A text editor.
+* Basic knowledge of HTML, CSS and JavaScript, Node.JS.
+
+
+## For 'step-04', 'step-05', 'step-06'
+
+Run `npm install` before running the code.
